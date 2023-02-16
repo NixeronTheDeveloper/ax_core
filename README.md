@@ -10,6 +10,6 @@ DONT DOWNLOAD RELEASE!!!!!!!!!!!
 
 Dependencies
 ------------
-es_extended-some script from Axterlisoft
+es_extended and some sctipt from Axterlisoft
 
 
